@@ -4,6 +4,7 @@
 # #############################
 *
 !*.*
+!*mybalsamiq*
 
 # new and old versions of conffiles, stored by dpkg
 *.dpkg-*
@@ -104,4 +105,5 @@ build
 *.perspective
 *.perspectivev3
 .oh-my-zsh
+
 
